@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<scene Name="Land of the Free" IsEnambled="true" IsUnlocked="true">
+	<level>
+		<sequence Duration="15">
+			<layer ActorIndex="0" SpawnCountMin="2" SpawnCountMax="3" InnerSpawnCountMin="8" InnerSpawnCountMax="10" SpeedMin="1" SpeedMax="4" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+		</sequence>
+		<sequence Duration="30">
+			<layer ActorIndex="0" SpawnCountMin="4" SpawnCountMax="4" InnerSpawnCountMin="10" InnerSpawnCountMax="12" SpeedMin="1" SpeedMax="4" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+		</sequence>
+		<sequence Duration="10">
+			<layer ActorIndex="0" SpawnCountMin="2" SpawnCountMax="2" InnerSpawnCountMin="10" InnerSpawnCountMax="12" SpeedMin="1" SpeedMax="5" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+		</sequence>
+	</level>
+	<level>
+		<sequence Duration="6">
+			<layer ActorIndex="1" SpawnCountMin="1" SpawnCountMax="1" InnerSpawnCountMin="9" InnerSpawnCountMax="9" SpeedMin="11" SpeedMax="11" Bias1Min="0.0" Bias1Max="1.0" Bias2Min="0.0"
+				Bias2Max="1.0" />
+		</sequence>
+		<sequence Duration="60">
+			<layer ActorIndex="0" SpawnCountMin="10" SpawnCountMax="12" InnerSpawnCountMin="25" InnerSpawnCountMax="40" SpeedMin="1" SpeedMax="5" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+		</sequence>
+	</level>
+	<level>
+		<sequence Duration="60">
+			<layer ActorIndex="0" SpawnCountMin="10" SpawnCountMax="15" InnerSpawnCountMin="44" InnerSpawnCountMax="48" SpeedMin="1" SpeedMax="5" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+		</sequence>
+		<sequence Duration="20">
+			<layer ActorIndex="1" SpawnCountMin="3" SpawnCountMax="3" InnerSpawnCountMin="9" InnerSpawnCountMax="9" SpeedMin="11" SpeedMax="11" Bias1Min="0.0" Bias1Max="1.0" Bias2Min="0.0"
+				Bias2Max="1.0" />
+		</sequence>
+	</level>
+	<level>
+		<sequence Duration="40">
+			<layer ActorIndex="0" SpawnCountMin="18" SpawnCountMax="20" InnerSpawnCountMin="45" InnerSpawnCountMax="50" SpeedMin="1" SpeedMax="5" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+		</sequence>
+		<sequence Duration="20">
+			<layer ActorIndex="0" SpawnCountMin="4" SpawnCountMax="4" InnerSpawnCountMin="10" InnerSpawnCountMax="12" SpeedMin="1" SpeedMax="5" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+			<layer ActorIndex="1" SpawnCountMin="1" SpawnCountMax="1" InnerSpawnCountMin="9" InnerSpawnCountMax="9" SpeedMin="11" SpeedMax="11" Bias1Min="0.0" Bias1Max="1.0" Bias2Min="0.0"
+				Bias2Max="1.0" />
+		</sequence>
+	</level>
+	<level>
+		<sequence Duration="60">
+			<layer ActorIndex="1" SpawnCountMin="1" SpawnCountMax="1" InnerSpawnCountMin="9" InnerSpawnCountMax="9" SpeedMin="11" SpeedMax="11" Bias1Min="0.0" Bias1Max="1.0" Bias2Min="0.0"
+				Bias2Max="1.0" />
+			<layer ActorIndex="0" SpawnCountMin="24" SpawnCountMax="28" InnerSpawnCountMin="65" InnerSpawnCountMax="70" SpeedMin="1" SpeedMax="5" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+		</sequence>
+	</level>
+	<level>
+		<sequence Duration="60">
+			<layer ActorIndex="0" SpawnCountMin="26" SpawnCountMax="31" InnerSpawnCountMin="75" InnerSpawnCountMax="80" SpeedMin="1" SpeedMax="5" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+			<layer ActorIndex="1" SpawnCountMin="2" SpawnCountMax="2" InnerSpawnCountMin="9" InnerSpawnCountMax="9" SpeedMin="11" SpeedMax="11" Bias1Min="0.0" Bias1Max="1.0" Bias2Min="0.0"
+				Bias2Max="1.0" />
+		</sequence>
+	</level>
+	<level>
+		<sequence Duration="60">
+			<layer ActorIndex="0" SpawnCountMin="28" SpawnCountMax="33" InnerSpawnCountMin="90" InnerSpawnCountMax="100" SpeedMin="1" SpeedMax="5" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+			<layer ActorIndex="1" SpawnCountMin="2" SpawnCountMax="3" InnerSpawnCountMin="9" InnerSpawnCountMax="9" SpeedMin="11" SpeedMax="11" Bias1Min="0.0" Bias1Max="1.0" Bias2Min="0.0"
+				Bias2Max="1.0" />
+		</sequence>
+		<sequence Duration="10">			
+			<layer ActorIndex="0" SpawnCountMin="4" SpawnCountMax="4" InnerSpawnCountMin="10" InnerSpawnCountMax="12" SpeedMin="1" SpeedMax="7" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+			<layer ActorIndex="1" SpawnCountMin="1" SpawnCountMax="1" InnerSpawnCountMin="9" InnerSpawnCountMax="9" SpeedMin="11" SpeedMax="11" Bias1Min="0.0" Bias1Max="1.0" Bias2Min="0.0"
+				Bias2Max="1.0" />
+		</sequence>
+	</level>
+	<level>
+		<sequence Duration="60">			
+			<layer ActorIndex="0" SpawnCountMin="28" SpawnCountMax="34" InnerSpawnCountMin="110" InnerSpawnCountMax="120" SpeedMin="1" SpeedMax="5" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+			<layer ActorIndex="1" SpawnCountMin="2" SpawnCountMax="3" InnerSpawnCountMin="9" InnerSpawnCountMax="9" SpeedMin="11" SpeedMax="11" Bias1Min="0.0" Bias1Max="1.0" Bias2Min="0.0"
+				Bias2Max="1.0" />
+		</sequence>
+	</level>
+	<level>
+		<sequence Duration="60">
+			<layer ActorIndex="0" SpawnCountMin="30" SpawnCountMax="35" InnerSpawnCountMin="130" InnerSpawnCountMax="140" SpeedMin="1" SpeedMax="5" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+			<layer ActorIndex="1" SpawnCountMin="2" SpawnCountMax="3" InnerSpawnCountMin="9" InnerSpawnCountMax="9" SpeedMin="11" SpeedMax="11" Bias1Min="0.0" Bias1Max="1.0" Bias2Min="0.0"
+				Bias2Max="1.0" />
+		</sequence>
+		<sequence Duration="5">
+			<layer ActorIndex="0" SpawnCountMin="4" SpawnCountMax="4" InnerSpawnCountMin="10" InnerSpawnCountMax="12" SpeedMin="1" SpeedMax="7" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+			<layer ActorIndex="1" SpawnCountMin="1" SpawnCountMax="1" InnerSpawnCountMin="9" InnerSpawnCountMax="9" SpeedMin="11" SpeedMax="11" Bias1Min="0.0" Bias1Max="1.0" Bias2Min="0.0"
+				Bias2Max="1.0" />
+		</sequence>
+	</level>
+	<level>
+		<sequence Duration="60">
+			<layer ActorIndex="0" SpawnCountMin="30" SpawnCountMax="36" InnerSpawnCountMin="150" InnerSpawnCountMax="160" SpeedMin="1" SpeedMax="10" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+		</sequence>
+	</level>
+	<level>
+		<sequence Duration="60">
+			<layer ActorIndex="0" SpawnCountMin="30" SpawnCountMax="37" InnerSpawnCountMin="170" InnerSpawnCountMax="180" SpeedMin="1" SpeedMax="5" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+			<layer ActorIndex="1" SpawnCountMin="2" SpawnCountMax="3" InnerSpawnCountMin="9" InnerSpawnCountMax="9" SpeedMin="11" SpeedMax="11" Bias1Min="0.0" Bias1Max="1.0" Bias2Min="0.0"
+				Bias2Max="1.0" />
+		</sequence>
+		<sequence Duration="10">
+			<layer ActorIndex="0" SpawnCountMin="10" SpawnCountMax="16" InnerSpawnCountMin="25" InnerSpawnCountMax="32" SpeedMin="1" SpeedMax="7" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+			<layer ActorIndex="1" SpawnCountMin="3" SpawnCountMax="4" InnerSpawnCountMin="9" InnerSpawnCountMax="9" SpeedMin="11" SpeedMax="11" Bias1Min="0.0" Bias1Max="1.0" Bias2Min="0.0"
+				Bias2Max="1.0" />
+		</sequence>
+	</level>
+	<level>
+		<sequence Duration="60">
+			<layer ActorIndex="0" SpawnCountMin="30" SpawnCountMax="38" InnerSpawnCountMin="190" InnerSpawnCountMax="200" SpeedMin="1" SpeedMax="6" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+			<layer ActorIndex="1" SpawnCountMin="2" SpawnCountMax="3" InnerSpawnCountMin="9" InnerSpawnCountMax="9" SpeedMin="11" SpeedMax="11" Bias1Min="0.0" Bias1Max="1.0" Bias2Min="0.0"
+				Bias2Max="1.0" />
+		</sequence>
+		<sequence Duration="10">
+			<layer ActorIndex="0" SpawnCountMin="10" SpawnCountMax="16" InnerSpawnCountMin="25" InnerSpawnCountMax="32" SpeedMin="1" SpeedMax="7" Bias1Min="0" Bias1Max="0" Bias2Min="0"
+				Bias2Max="0" />
+			<layer ActorIndex="1" SpawnCountMin="3" SpawnCountMax="4" InnerSpawnCountMin="9" InnerSpawnCountMax="9" SpeedMin="11" SpeedMax="11" Bias1Min="0.0" Bias1Max="1.0" Bias2Min="0.0"
+				Bias2Max="1.0" />
+		</sequence>
+	</level>
+</scene>

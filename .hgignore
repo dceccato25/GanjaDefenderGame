@@ -1,0 +1,44 @@
+syntax: glob
+_UpgradeReport_Files/UpgradeReport_Plus.gif
+UpgradeLog.*
+Backup.*/.*
+CowDefender-csharp.suo
+build/*
+TestResults/Jared_JARED-PC 2011-10-14 02_32_09.trx
+TestProject1/TestProject1.csproj
+TestProject1/Test References/Assembly-CSharp.accessor
+TestProject1/Properties/AssemblyInfo.cs
+TestProject1/LevelManagerTest.cs
+Library/guidmapper.orig
+Library/guidmapper
+Library/expandedItems
+Library/assetservercachev3.orig
+Library/assetDatabase3.orig
+Library/assetDatabase3
+Library/*
+syntax: regexp
+_Upgrade.*
+_ReSharper.*
+obj/.*
+UpgradeLog.*
+Temp/.*
+.*/bin/.*
+Library/previews/.*
+CowDefender1.*
+Backup/.*
+Backup.*/.*
+Library/metadata/.*
+Library/cache/.*
+CowDefender_Data/.*
+Crash_*
+build/*
+Library/*
+./*.pidb
+./*.sln
+./*.userprefs
+./*.csproj
+./*.orig
+./*.unityproj
+BUILDSBuilds
+Assets/Hard Surface Free
+Assets/Objects

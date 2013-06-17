@@ -1,0 +1,309 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:MobileBloom.shader" caret="413" fromTop="0" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Scripts/d:Editor/f:CleanProject.cs" caret="0" fromTop="0" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Game/f:GanjaManager.cs" caret="1447" fromTop="68" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Game/f:GanjaPlant.cs" caret="1323" fromTop="27" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:HelicopterController.cs" caret="4063" fromTop="38" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:Grenade.cs" caret="1339" fromTop="25" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="4074" fromTop="25" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Game/f:GanjaManager.cs" caret="2004" fromTop="22" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Game/f:GanjaManager.cs" caret="1331" fromTop="13" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:Grenade.cs" caret="230" fromTop="8" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:Grenade.cs" caret="458" fromTop="13" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="5641" fromTop="28" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="764" fromTop="27" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:Grenade.cs" caret="533" fromTop="13" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:Grenade.cs" caret="1217" fromTop="44" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:Grenade.cs" caret="637" fromTop="32" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="7057" fromTop="28" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Game/f:GanjaPlant.cs" caret="1159" fromTop="18" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Game/f:GanjaPlant.cs" caret="1463" fromTop="31" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Game/f:GanjaPlant.cs" caret="1620" fromTop="38" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="7706" fromTop="29" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="4843" fromTop="26" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="5116" fromTop="29" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="7560" fromTop="29" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="5341" fromTop="26" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="5848" fromTop="26" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="3839" fromTop="14" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="2622" fromTop="14" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:Grenade.cs" caret="804" fromTop="25" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:Grenade.cs" caret="1341" fromTop="40" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:Grenade.cs" caret="894" fromTop="21" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:Grenade.cs" caret="1478" fromTop="34" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:Grenade.cs" caret="533" fromTop="14" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="5721" fromTop="29" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="4644" fromTop="41" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="4352" fromTop="30" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="4216" fromTop="30" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="private" priority="287" />
+      <Item value="facingDirection" priority="31" />
+      <Item value="Debug`0" priority="191" />
+      <Item value="var" priority="191" />
+      <Item value="new" priority="159" />
+      <Item value="Vector3" priority="115" />
+      <Item value="public" priority="478" />
+      <Item value="tk2dSprite`0" priority="96" />
+      <Item value="transform" priority="95" />
+      <Item value="as" priority="95" />
+      <Item value="gunSprite" priority="63" />
+      <Item value="if" priority="863" />
+      <Item value="cursorScreenspaceDirection" priority="31" />
+      <Item value="else" priority="191" />
+      <Item value="Quaternion`0" priority="31" />
+      <Item value="string" priority="95" />
+      <Item value="switch" priority="63" />
+      <Item value="case" priority="63" />
+      <Item value="break" priority="127" />
+      <Item value="Collision`0" priority="31" />
+      <Item value="FreeFalling" priority="16" />
+      <Item value="return" priority="255" />
+      <Item value="this" priority="95" />
+      <Item value="gameObject" priority="223" />
+      <Item value="hitObject" priority="31" />
+      <Item value="Destroy`0" priority="159" />
+      <Item value="Vector3`0" priority="159" />
+      <Item value="character" priority="319" />
+      <Item value="false" priority="223" />
+      <Item value="true" priority="223" />
+      <Item value="ConstantForce" priority="28" />
+      <Item value="default" priority="31" />
+      <Item value="ParachuteCollider" priority="31" />
+      <Item value="physObject" priority="63" />
+      <Item value="parachuteDrag" priority="31" />
+      <Item value="interface" priority="30" />
+      <Item value="ITriggerCollideReciever`0" priority="63" />
+      <Item value="int" priority="191" />
+      <Item value="Health" priority="31" />
+      <Item value="abstract" priority="30" />
+      <Item value="tk2dSpriteAnimation`0" priority="63" />
+      <Item value="currentState" priority="191" />
+      <Item value="Exploding" priority="16" />
+      <Item value="float" priority="255" />
+      <Item value="Time`0" priority="223" />
+      <Item value="ExplodeAnimation" priority="63" />
+      <Item value="tk2dAnimatedSprite`0" priority="95" />
+      <Item value="_explosionStartTime" priority="63" />
+      <Item value="Chopper" priority="31" />
+      <Item value="collider" priority="31" />
+      <Item value="bool" priority="127" />
+      <Item value="State`0" priority="31" />
+      <Item value="GetComponent`0" priority="63" />
+      <Item value="CurrentState" priority="63" />
+      <Item value="Alive" priority="67" />
+      <Item value="void" priority="159" />
+      <Item value="const" priority="95" />
+      <Item value="Sprite" priority="31" />
+      <Item value="ExplodedAnim" priority="31" />
+      <Item value="AliveAnim" priority="31" />
+      <Item value="RepairingAnim" priority="31" />
+      <Item value="BurningAnim" priority="31" />
+      <Item value="PoisonedAnim" priority="31" />
+      <Item value="GameObject`0" priority="129" />
+      <Item value="GanjaPlant`0" priority="63" />
+      <Item value="Random`0" priority="31" />
+      <Item value="_plants" priority="95" />
+      <Item value="Length" priority="53" />
+      <Item value="rngInddex" priority="63" />
+      <Item value="p" priority="31" />
+      <Item value="null" priority="95" />
+      <Item value="GanjaManager`0" priority="31" />
+      <Item value="static" priority="31" />
+      <Item value="GameManager`0" priority="63" />
+      <Item value="myTarget" priority="127" />
+      <Item value="Retreating" priority="33" />
+      <Item value="retreatDirection" priority="127" />
+      <Item value="targetMoveLocation" priority="63" />
+      <Item value="Mathf`0" priority="63" />
+      <Item value="DestroyObject`0" priority="31" />
+      <Item value="distanceToTravel" priority="63" />
+      <Item value="Throwing" priority="50" />
+      <Item value="Retreat`0" priority="63" />
+      <Item value="_targetedPlant" priority="287" />
+      <Item value="TryEngageGanja`0" priority="31" />
+      <Item value="myTargetY" priority="31" />
+      <Item value="isOuterLimitReached" priority="31" />
+      <Item value="isLeft" priority="31" />
+      <Item value="thorwDistance" priority="31" />
+      <Item value="Color`0" priority="31" />
+      <Item value="Burning" priority="16" />
+      <Item value="Burned" priority="16" />
+      <Item value="animation" priority="31" />
+      <Item value="lastStateChangeTimeDelta" priority="95" />
+      <Item value="ThrowGrenade`0" priority="31" />
+      <Item value="floorY" priority="31" />
+      <Item value="Transform`0" priority="31" />
+      <Item value="grenade" priority="127" />
+      <Item value="foreach" priority="31" />
+      <Item value="plant" priority="63" />
+      <Item value="ExplodeDIstance" priority="31" />
+      <Item value="Explosion" priority="31" />
+      <Item value="Instantiate`0" priority="31" />
+      <Item value="Grenade" priority="31" />
+      <Item value="isExploding" priority="31" />
+      <Item value="sprite" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Transform">
+      <Item value="Find`0" priority="27" />
+      <Item value="gameObject" priority="107" />
+      <Item value="GetComponent`1" priority="26" />
+      <Item value="localScale" priority="80" />
+      <Item value="transform" priority="216" />
+      <Item value="rotation" priority="54" />
+      <Item value="localRotation" priority="26" />
+      <Item value="rigidbody" priority="161" />
+      <Item value="collider" priority="26" />
+      <Item value="position" priority="431" />
+      <Item value="Translate`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Vector3">
+      <Item value="x" priority="134" />
+      <Item value="y" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Quaternion">
+      <Item value="Euler`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Debug">
+      <Item value="Log`0" priority="107" />
+      <Item value="DrawRay`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Collision">
+      <Item value="gameObject" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.GameObject">
+      <Item value="name" priority="108" />
+      <Item value="tag" priority="54" />
+      <Item value="constantForce" priority="26" />
+      <Item value="GetComponent`1" priority="26" />
+      <Item value="transform" priority="53" />
+      <Item value="rigidbody" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Rigidbody">
+      <Item value="drag" priority="53" />
+      <Item value="gameObject" priority="26" />
+      <Item value="isKinematic" priority="81" />
+      <Item value="useGravity" priority="26" />
+      <Item value="freezeRotation" priority="26" />
+      <Item value="MovePosition`0" priority="26" />
+      <Item value="velocity" priority="26" />
+      <Item value="AddForce`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Collider">
+      <Item value="tag" priority="26" />
+      <Item value="rigidbody" priority="26" />
+      <Item value="enabled" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ArmyGuyController+State">
+      <Item value="DeadFalling" priority="55" />
+      <Item value="Engaged" priority="55" />
+      <Item value="Retreating" priority="55" />
+      <Item value="Throwing" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Vector3">
+      <Item value="up" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HelicopterController+State">
+      <Item value="Exploding" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:tk2dSpriteAnimation">
+      <Item value="enabled" priority="26" />
+      <Item value="animation" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:tk2dAnimatedSprite">
+      <Item value="Start`0" priority="54" />
+      <Item value="animationCompleteDelegate" priority="26" />
+      <Item value="renderer" priority="80" />
+      <Item value="Play`0" priority="136" />
+      <Item value="isPlaying`0" priority="26" />
+      <Item value="animation" priority="26" />
+      <Item value="anim" priority="26" />
+      <Item value="scale" priority="26" />
+      <Item value="color" priority="27" />
+      <Item value="transform" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Time">
+      <Item value="deltaTime" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:tk2dSprite">
+      <Item value="enabled" priority="26" />
+      <Item value="renderer" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GanjaPlant+State">
+      <Item value="Exploded" priority="27" />
+      <Item value="Burning" priority="27" />
+      <Item value="Repairing" priority="27" />
+      <Item value="Poisoned" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GanjaPlant">
+      <Item value="CurrentState" priority="53" />
+      <Item value="IsAlive" priority="54" />
+      <Item value="Reset`0" priority="26" />
+      <Item value="transform" priority="107" />
+      <Item value="gameObject" priority="26" />
+      <Item value="StartBurning`0" priority="53" />
+      <Item value="Repair`0" priority="27" />
+      <Item value="Sprite" priority="26" />
+      <Item value="renderer" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Random">
+      <Item value="Range`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Count`1" priority="26" />
+      <Item value="Skip`1" priority="26" />
+      <Item value="FirstOrDefault`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GanjaManager">
+      <Item value="gameObject" priority="26" />
+      <Item value="TryAquireGanjaPlantTarget`0" priority="26" />
+      <Item value="transform" priority="26" />
+      <Item value="GanjaPlants" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GameManager">
+      <Item value="Instance" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GameManager">
+      <Item value="GanjaManager" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Mathf">
+      <Item value="Abs`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Color">
+      <Item value="green" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Animation">
+      <Item value="Play`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Renderer">
+      <Item value="isVisible" priority="26" />
+      <Item value="enabled" priority="27" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

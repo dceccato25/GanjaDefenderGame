@@ -1,0 +1,345 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F8E141C3-88AB-4FCA-B513-5101869D4730/f:KamikazeMovementMotor.js" caret="0" fromTop="0" />
+      <File id="F8E141C3-88AB-4FCA-B513-5101869D4730/f:Spawner.js" caret="0" fromTop="0" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:BomberController.cs" caret="785" fromTop="31" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:HelicopterController.cs" caret="4209" fromTop="7" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:Grenade.cs" caret="67" fromTop="4" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:Bullet.cs" caret="296" fromTop="17" />
+      <File id="F8E141C3-88AB-4FCA-B513-5101869D4730/f:Bomb.cs" caret="2046" fromTop="32" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="5205" fromTop="99" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Game/f:GameManager.cs" caret="1306" fromTop="43" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Game/f:LevelManager.cs" caret="11463" fromTop="27" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:HitScript.cs" caret="402" fromTop="18" />
+      <File id="F8E141C3-88AB-4FCA-B513-5101869D4730/f:EffectSequencer.js" caret="699" fromTop="26" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="10629" fromTop="293" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="1487" fromTop="23" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="2692" fromTop="10" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="3244" fromTop="11" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="2044" fromTop="32" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="1512" fromTop="23" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="497" fromTop="8" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="2298" fromTop="26" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="2829" fromTop="35" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="3105" fromTop="41" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="3381" fromTop="47" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="3935" fromTop="41" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="4214" fromTop="47" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="4493" fromTop="47" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="4772" fromTop="53" />
+      <File id="76BB08AA-9D4C-CD6C-E09F-81CEEB49A600/d:Assets/d:Resources/f:Stage1.xml" caret="5051" fromTop="44" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Game/f:GameManager.cs" caret="246" fromTop="9" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Game/f:GameManager.cs" caret="1359" fromTop="50" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="564" fromTop="10" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="749" fromTop="15" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="12102" fromTop="39" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="11461" fromTop="28" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="11850" fromTop="34" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="12355" fromTop="32" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="12949" fromTop="38" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="10105" fromTop="39" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="10961" fromTop="32" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="10249" fromTop="10" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="10772" fromTop="16" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="10494" fromTop="9" />
+      <File id="C6AC1FC5-372F-8AA1-5C0E-6F67534CB0D2/d:Assets/d:Scripts/d:Movement/f:ArmyGuyController.cs" caret="13288" fromTop="43" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:UnityEngine.GameObject">
+      <Item value="GetComponent`0" priority="26" />
+      <Item value="GetComponents`0" priority="26" />
+      <Item value="GetComponents`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="as" priority="127" />
+      <Item value="GanjaPlant`0" priority="59" />
+      <Item value="GUI`0" priority="127" />
+      <Item value="GUIText`0" priority="26" />
+      <Item value="new" priority="415" />
+      <Item value="Rect" priority="57" />
+      <Item value="LevelManager" priority="159" />
+      <Item value="private" priority="159" />
+      <Item value="int" priority="159" />
+      <Item value="public" priority="94" />
+      <Item value="Level`0" priority="63" />
+      <Item value="return" priority="319" />
+      <Item value="_currentStage" priority="159" />
+      <Item value="_currentLevelIndex" priority="95" />
+      <Item value="level" priority="95" />
+      <Item value="if" priority="607" />
+      <Item value="Length" priority="80" />
+      <Item value="null" priority="63" />
+      <Item value="Last`1" priority="26" />
+      <Item value="CurrentLevel" priority="63" />
+      <Item value="GanjaManager" priority="63" />
+      <Item value="particleEmitter" priority="31" />
+      <Item value="p" priority="62" />
+      <Item value="bool" priority="63" />
+      <Item value="false" priority="63" />
+      <Item value="void" priority="159" />
+      <Item value="true" priority="95" />
+      <Item value="GameManager`0" priority="154" />
+      <Item value="LevelManager`0" priority="31" />
+      <Item value="GanjaManager`0" priority="63" />
+      <Item value="GUIStyle`0" priority="31" />
+      <Item value="Debug`0" priority="95" />
+      <Item value="CurrentLevelNumber" priority="30" />
+      <Item value="foreach" priority="95" />
+      <Item value="ArmyGuyController`0" priority="62" />
+      <Item value="guy" priority="31" />
+      <Item value="ToString`0" priority="31" />
+      <Item value="plant" priority="31" />
+      <Item value="AliveAnim" priority="31" />
+      <Item value="break" priority="63" />
+      <Item value="i" priority="63" />
+      <Item value="plantsToRestore" priority="31" />
+      <Item value="var" priority="95" />
+      <Item value="deadCount" priority="63" />
+      <Item value="Random`0" priority="31" />
+      <Item value="GanjaPlants" priority="31" />
+      <Item value="repairIndex" priority="63" />
+      <Item value="isWaitingForLevelToClear" priority="63" />
+      <Item value="gameObject" priority="63" />
+      <Item value="HelicopterController`0" priority="31" />
+      <Item value="Where`1" priority="26" />
+      <Item value="g" priority="31" />
+      <Item value="Falling" priority="16" />
+      <Item value="activeObjectsCount" priority="31" />
+      <Item value="StartNextLevel`0" priority="31" />
+      <Item value="TextAsset`0" priority="128" />
+      <Item value="XmlDocument`0" priority="95" />
+      <Item value="XmlDocument" priority="86" />
+      <Item value="TextAsset" priority="28" />
+      <Item value="Resources`0" priority="31" />
+      <Item value="stage" priority="127" />
+      <Item value="text" priority="31" />
+      <Item value="doc" priority="63" />
+      <Item value="xmlBody" priority="63" />
+      <Item value="scene" priority="63" />
+      <Item value="XDocument" priority="28" />
+      <Item value="formXml" priority="31" />
+      <Item value="EnvironmentVariableTarget`0" priority="31" />
+      <Item value="XmlNodeReader`0" priority="31" />
+      <Item value="NewLineHandling`0" priority="32" />
+      <Item value="XmlTextReader`0" priority="31" />
+      <Item value="XmlTextReader" priority="29" />
+      <Item value="StringReader" priority="28" />
+      <Item value="IDictionary`0" priority="31" />
+      <Item value="HybridDictionary" priority="28" />
+      <Item value="string" priority="31" />
+      <Item value="GameStage`0" priority="31" />
+      <Item value="_loadedStages" priority="63" />
+      <Item value="GameStage" priority="29" />
+      <Item value="l" priority="64" />
+      <Item value="Level" priority="28" />
+      <Item value="LevelSequence" priority="26" />
+      <Item value="Duration" priority="26" />
+      <Item value="s" priority="32" />
+      <Item value="XElement`0" priority="95" />
+      <Item value="LoadLevelSequences`0" priority="65" />
+      <Item value="LevelSequence`0" priority="31" />
+      <Item value="LevelSequenceLayer`0" priority="31" />
+      <Item value="layer" priority="31" />
+      <Item value="ActorIndex" priority="26" />
+      <Item value="SpawnCountMin" priority="32" />
+      <Item value="SpawnCountMax" priority="32" />
+      <Item value="InnerSpawnCountMin" priority="32" />
+      <Item value="InnerSpawnCountMax" priority="32" />
+      <Item value="SpeedMin" priority="32" />
+      <Item value="SpeedMax" priority="32" />
+      <Item value="IncreasingDifficultyBias" priority="32" />
+      <Item value="InnerSpawnBurstBias" priority="32" />
+      <Item value="stageName" priority="31" />
+      <Item value="newStage" priority="63" />
+      <Item value="XmlElement`0" priority="64" />
+      <Item value="a" priority="31" />
+      <Item value="n" priority="31" />
+      <Item value="_spawnedObjects" priority="31" />
+      <Item value="SpawnCount" priority="31" />
+      <Item value="_isBombing" priority="63" />
+      <Item value="SideBias" priority="31" />
+      <Item value="ISpawnableEnemy`0" priority="95" />
+      <Item value="class" priority="30" />
+      <Item value="SpawnableEnemyBase`0" priority="31" />
+      <Item value="Bias1" priority="59" />
+      <Item value="bias1" priority="32" />
+      <Item value="Direction" priority="31" />
+      <Item value="Right" priority="16" />
+      <Item value="bomb" priority="31" />
+      <Item value="Vector3" priority="57" />
+      <Item value="Transform`0" priority="32" />
+      <Item value="else" priority="31" />
+      <Item value="DammagePosition" priority="31" />
+      <Item value="BloodSplat" priority="31" />
+      <Item value="ParticleEmitter`0" priority="32" />
+      <Item value="bloodSpray" priority="63" />
+      <Item value="Vector3`0" priority="31" />
+      <Item value="currentState" priority="31" />
+      <Item value="FreeFalling" priority="16" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.GUI">
+      <Item value="TextArea`0" priority="53" />
+      <Item value="Button`0" priority="53" />
+      <Item value="TextField`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LevelManager">
+      <Item value="_currentLevel" priority="26" />
+      <Item value="CurrentLevelNumber" priority="53" />
+      <Item value="_levelTimeElapsed" priority="26" />
+      <Item value="SelectLevel`0" priority="26" />
+      <Item value="ResetCurrentLevel`0" priority="26" />
+      <Item value="SelectStage`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GameStage">
+      <Item value="Levels" priority="108" />
+      <Item value="light" priority="26" />
+      <Item value="name" priority="26" />
+      <Item value="IsEnabled" priority="26" />
+      <Item value="IsUnlocked" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GanjaManager">
+      <Item value="GanjaPlants" priority="53" />
+      <Item value="ResetPlants`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GanjaPlant">
+      <Item value="IsAlive" priority="54" />
+      <Item value="CurrentState" priority="26" />
+      <Item value="Repair`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Debug">
+      <Item value="LogError`0" priority="26" />
+      <Item value="Log`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Component">
+      <Item value="gameObject" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GameManager">
+      <Item value="Instance" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GameManager">
+      <Item value="GanjaManager" priority="53" />
+      <Item value="gameObject" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Where`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GanjaPlant">
+      <Item value="State`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GanjaPlant+State">
+      <Item value="Alive" priority="54" />
+      <Item value="Repairing" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Count`1" priority="53" />
+      <Item value="Skip`1" priority="26" />
+      <Item value="First`1" priority="26" />
+      <Item value="Select`2" priority="26" />
+      <Item value="ToArray`1" priority="26" />
+      <Item value="FirstOrDefault`1" priority="26" />
+      <Item value="Where`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Random">
+      <Item value="Range`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ArmyGuyController">
+      <Item value="currentState" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.GameObject">
+      <Item value="Find`0" priority="22" />
+      <Item value="FindGameObjectWithTag`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.TextAsset">
+      <Item value="text" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnityEngine.Resources">
+      <Item value="Load`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="LoadXml`0" priority="26" />
+      <Item value="FirstChild" priority="80" />
+      <Item value="DocumentElement" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlElement">
+      <Item value="GetAttribute`0" priority="26" />
+      <Item value="GetAttributeNode`0" priority="26" />
+      <Item value="GetElementsByTagName`0" priority="27" />
+      <Item value="FirstChild" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XElement">
+      <Item value="ReadAttributeValue`0" priority="26" />
+      <Item value="ReadBoolValue`0" priority="27" />
+      <Item value="Element`0" priority="26" />
+      <Item value="Elements`0" priority="53" />
+      <Item value="ReadDecimalValue`0" priority="113" />
+      <Item value="ReadIntValue`0" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.IDictionary">
+      <Item value="Contains`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Level">
+      <Item value="Actors" priority="26" />
+      <Item value="Sequences" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IDictionary`2">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNodeList">
+      <Item value="OfType`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNode">
+      <Item value="Attributes" priority="53" />
+      <Item value="ChildNodes" priority="27" />
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttributeCollection">
+      <Item value="OfType`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttribute">
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LevelSequenceLayer">
+      <Item value="Bias1Min" priority="27" />
+      <Item value="Bias1Max" priority="27" />
+      <Item value="Bias2Max" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Transform">
+      <Item value="transform" priority="26" />
+      <Item value="position" priority="26" />
+      <Item value="localScale" priority="26" />
+      <Item value="rigidbody" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Direction">
+      <Item value="Right" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.Rigidbody">
+      <Item value="AddForce`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnityEngine.ParticleEmitter">
+      <Item value="emit" priority="53" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
