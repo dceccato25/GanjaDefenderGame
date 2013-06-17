@@ -19,7 +19,8 @@ public class GameManager : MonoBehaviour
         PlayerPerformanceStatistics.Score += points;
         UIManager.RefreshScore();
     }
-
+	
+	//this gets called then the object wakes up
     private void Awake()
     {
         if (Instance == null)
